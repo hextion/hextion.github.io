@@ -11,3 +11,5 @@
 **Expected result**: input should have autofilled value
 
 **Actual result**: input has no value
+
+![Screen recording](screenrecording.gif)
